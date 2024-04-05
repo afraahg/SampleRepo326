@@ -15,3 +15,11 @@ def main():
 
 if __name__=="__main__":
     main()
+
+#Eveana edites  at 10:58 4/4
+
+# Define the message
+def main ():
+
+# Print the message to the console
+    print("Hello Everyone")
