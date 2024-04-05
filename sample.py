@@ -15,3 +15,9 @@ def main():
 
 if __name__=="__main__":
     main()
+    
+#CJ edits 9:43 4/4
+
+list = ["one", "two"]
+list.append("three")
+print(list)
