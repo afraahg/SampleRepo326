@@ -39,10 +39,8 @@ def userInput(big_five_obj, user_profile_obj):
     """
     Function to handle user input for the BigFive quiz
     Args:
-        big_five_obj : An instance
-        of the BigFive class
-        user_profile_obj : A dictionary
-        containing the users answers to the questions
+        big_five_obj : An instance of the BigFive class
+        user_profile_obj : A dictionary containing the users answers to the questions
     Returns:
     None
     """    
