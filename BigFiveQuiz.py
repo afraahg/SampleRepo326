@@ -32,9 +32,11 @@ class UserProfile:
         pass
     
     def __str__(self):
+        #returns class UserProfile as a string.
         return f"Hi {self.name} !"
 
     def getProfile(self):
+        #returns profile
         return self.JSON
 def userInput(big_five_obj, user_profile_obj):
     """
